@@ -181,8 +181,8 @@ streamlit run app.py
 
 
 Future Improvements
-Train the model on larger datasets
-Explore deep learning approaches
-Add explainable AI methods such as SHAP
-Integrate prediction confidence scores
-Improve clinical decision support features
+
+Add explainable AI methods such as SHAP or LIME
+Improve class balancing techniques
+Add prediction confidence scores
+Explore deep learning approaches for RNA-seq analysis
