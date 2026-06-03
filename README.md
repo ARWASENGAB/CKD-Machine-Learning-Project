@@ -178,11 +178,8 @@ How to Run Locally
 pip install -r requirements.txt
 
 streamlit run app.py
-Streamlit Application
 
-Add your deployed Streamlit link here.
 
-https://your-streamlit-app-link.streamlit.app
 Future Improvements
 Train the model on larger datasets
 Explore deep learning approaches
