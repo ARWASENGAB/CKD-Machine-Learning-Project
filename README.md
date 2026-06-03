@@ -7,12 +7,16 @@
 This project aims to predict Chronic Kidney Disease (CKD) using machine learning based on patient clinical and laboratory data. The dataset required cleaning because it contained many missing values. After preprocessing, feature engineering, and feature selection, three models were trained: Logistic Regression, Random Forest, and SVM. The SVM model achieved the best performance and was deployed using Streamlit to allow real-time CKD prediction.
 
 Projects links
+
 GitHub Repository
 https://github.com/ARWASENGAB/CKD-Machine-Learning-Project/tree/main
+
 Streamlit Prediction App
 https://ckd-machine-learning-project-a52urdradniinqdpapplxyi.streamlit.app/
+
 Dataset Source: Kaggle Chronic Kidney Disease
 https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
+
 Key Features
 
 ✅ Chronic Kidney Disease prediction using clinical data
@@ -170,7 +174,9 @@ UCI Machine Learning Repository
 https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
 
 How to Run Locally
+
 pip install -r requirements.txt
+
 streamlit run app.py
 Streamlit Application
 
